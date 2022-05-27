@@ -1,0 +1,14 @@
+{
+  "name": "term.ooo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/3mstecnologia/term.ooo.git",
+  "author": "3mstecnologia <matheus@>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "start": "nodemon hack.js"
+  }
+}
